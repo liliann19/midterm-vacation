@@ -92,6 +92,21 @@ button:active {
     text-align: center;
 }
 
+/* Footer */
+#url {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: #1E90FF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkblue;
+}
+
 /* Validation */
 .error {
     display: none;
